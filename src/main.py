@@ -1,6 +1,8 @@
+from dozen import dozen
+
 x = 0
 
-x = x + 12
+x = x + dozen()
 
 print(x)
 
