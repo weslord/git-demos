@@ -6,7 +6,7 @@ x = x - 2*dozen()
 
 x = x + 1*dozen()
 
-x = x + 12
+x = x + 1*dozen()
 
 print(x)
 
